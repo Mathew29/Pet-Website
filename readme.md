@@ -5,32 +5,22 @@
 #### By Mustafa and Carolina
 
 ## Description
- In this website we used anchor tag and inline tag and add picture , link, and some description about cats and dogs.
+
+_The first webpage I made while learning in Epicodus. It shows my favorites cats and dogs._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-## HTML
+* _Clone this repository_
+* _For mac users, open with Terminal. For Window users, open with git._
+* _Enter the command open Petwebsite_
 
 
+## Technologies Used
+
+_HTML_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Carolina Araujo, Mustafa_**
